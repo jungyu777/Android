@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Hello">
         <activity
-            android:name=".SubActivity"
+            android:name=".DetailActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

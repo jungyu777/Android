@@ -31,6 +31,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void reserBtn(View view){
+        /**
+         * 현재 활성화 되어 있는 액티비티가  구성한  화면에서
+         * textView 라는 아이디를 가지고 있는 UI 의 참조값 얻어와서
+         * TextView type 의 a라는 지역 변수에 담기
+         */
         count=0;
         TextView a = findViewById(R.id.textView);
         a.setText(Integer.toString(count));

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activity" />
+            <option value="$PROJECT_DIR$/hello2" />
+            <option value="$PROJECT_DIR$/step01activity" />
+            <option value="$PROJECT_DIR$/step01example" />
+            <option value="$PROJECT_DIR$/step02_listview" />
+            <option value="$PROJECT_DIR$/step03customadapter" />
+            <option value="$PROJECT_DIR$/step04_httprequest" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
