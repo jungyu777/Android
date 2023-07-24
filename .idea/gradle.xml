@@ -18,6 +18,8 @@
             <option value="$PROJECT_DIR$/step02_listview" />
             <option value="$PROJECT_DIR$/step03customadapter" />
             <option value="$PROJECT_DIR$/step04_httprequest" />
+            <option value="$PROJECT_DIR$/step04example" />
+            <option value="$PROJECT_DIR$/step04httprequest2" />
           </set>
         </option>
       </GradleProjectSettings>
